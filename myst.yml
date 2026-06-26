@@ -24,9 +24,8 @@ project:
         - file: notebooks/CPCF_CPCUF.ipynb
         - file: notebooks/NPF_smpsnano.ipynb
         - file: notebooks/create_stats_summerSchool.ipynb
-        - file: notebooks/create_stats_summerSchool.ipynb
         - file: sample/basic_figure_visualize.ipynb
-        - file: notebooks/random_forest_nph_prediction.ipynb
+        - file: notebooks/random_forest_npf_prediction.ipynb
 site:
   options:
     logo: notebooks/images/arm_logo.png
